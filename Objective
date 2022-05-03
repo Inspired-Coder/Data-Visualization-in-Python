@@ -1,0 +1,6 @@
+Here we’ll be doing data visualization with the help of a case study:
+
+We'll be using a Google Playstore dataset to analyse what are the factors affecting the visibility of the apps.
+And try to answer the following questions :-
+- Does a higher size or price necessarily mean that an app would perform better than the other apps? 
+- Or does a higher number of installs give a clear picture of which app would have a better rating than others?
